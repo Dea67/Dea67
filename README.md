@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hey, i'm Dea
+## Hey, i'm Dea!
 
 frontend developer, linux user, and professional procrastinator.
 
